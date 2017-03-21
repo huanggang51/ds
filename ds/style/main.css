@@ -5,7 +5,7 @@
 	line-height: 31px;
 }
 .collection{
-	background: url(E:/ds/img/icon/collection.jpg) left center no-repeat;
+	background: url(img/icon/collection.jpg) left center no-repeat;
 	padding-left: 19px;
 	font-size: 12px;
 	font-weight: bold;
@@ -73,7 +73,7 @@
 	color: #fff;
 }
 .shopcar .shoptext{
-	background: url(E:/ds/img/shopcar.png) 10px center no-repeat;
+	background: url(img/shopcar.png) 10px center no-repeat;
 	display: inline-block;
 	height: 100%;
 	width: 87px;
@@ -81,7 +81,7 @@
 	text-indent: 40px;
 }
 .shopcar .shopnum{
-	background: url(E:/ds/img/icon/shopnum.png) 34px center no-repeat;
+	background: url(img/icon/shopnum.png) 34px center no-repeat;
 	display: inline-block;
 	height: 35px;
 	width: 27px;
@@ -111,7 +111,7 @@
 }
 .navbox .shopclass i{
 	display: inline-block;
-    background: url(E:/ds/img/icon/shopclass.png) left center no-repeat;
+    background: url(img/icon/shopclass.png) left center no-repeat;
     width: 11px;
     height: 7px;
     overflow: hidden;
@@ -145,7 +145,7 @@
 }
 .shopclass_iteam dt{
 	height: 20px;
-	background: url(E:/ds/img/icon/shopclass_iteam_1.jpg)right center no-repeat;
+	background: url(img/icon/shopclass_iteam_1.jpg)right center no-repeat;
 }
 .shopclass_iteam dd{
 	font-size: 12px;
@@ -165,7 +165,7 @@
 	display: inline-block;
     width: 48px;
     height: 20px;
-    background: url(E:/ds/img/icon/shopclass_show_1.jpg)left center no-repeat;
+    background: url(img/icon/shopclass_show_1.jpg)left center no-repeat;
     text-align: center;;
     line-height: 20px;
     text-decoration: underline;
@@ -232,7 +232,7 @@
 .shopclasslist_link a span{
 	width: 11px;
 	height: 7px;
-	background: url(E:/ds/img/icon/shopclass_iteam_1.jpg) left center no-repeat;
+	background: url(img/icon/shopclass_iteam_1.jpg) left center no-repeat;
 	display: inline-block;
 	margin-left: 8px;
 }
@@ -319,7 +319,7 @@
 .icon{
 	height: 44px;
 	width: 44px;
-	background: url(E:/ds/img/icon/shopTit_01.png) left top no-repeat;
+	background: url(img/icon/shopTit_01.png) left top no-repeat;
 	display: inline-block;
 	float: left;
 }
